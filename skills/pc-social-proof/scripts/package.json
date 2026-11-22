@@ -1,0 +1,1 @@
+{ "name": "pc-social-proof-scripts", "private": true, "type": "module", "dependencies": { "puppeteer-core": "^23.10.0" } }
